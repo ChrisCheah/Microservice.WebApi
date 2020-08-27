@@ -29,3 +29,4 @@ Read the entire Blog Post here - https://www.codewithmukesh.com/blog/microservic
   c. Run  
       Add-Migration InitialCreate  
       Update-Database  
+7. Hit F5 or Click Start to test  
